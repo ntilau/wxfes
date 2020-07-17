@@ -1,1 +1,3 @@
-# wxFES - A wxWidgets + VTK experiment extending FES
+# wxFES
+
+A wxWidgets + VTK experiment extending FES
